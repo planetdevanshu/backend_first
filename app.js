@@ -4,4 +4,4 @@ if (amount < 10){
 }else{
     colsole.log('large number')
 }
-console.log('hey its my first node app!!!')
+console.log('hey its my first node app!!!');
